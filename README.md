@@ -11,4 +11,5 @@ Cara menjalankan aplikasi:
 5. Login dapat menggunakan username/password a (satu huruf a) atau dengan registrasi lebih dulu
 
 Contoh tampilan Dashboard. Contoh halaman yang sudah dimodifikasi ada di menu Manage.
-<img src="images/1.png"/>
+
+<img src="images/screenshots/1.png"/>
