@@ -9,3 +9,6 @@ Cara menjalankan aplikasi:
 3. Buat database dengan nama phpnyeldb dan import file sql yang disertakan
 4. Sesuaikan parameter lain di file config.php
 5. Login dapat menggunakan username/password a (satu huruf a) atau dengan registrasi lebih dulu
+
+Contoh tampilan Dashboard. Contoh halaman yang sudah dimodifikasi ada di menu Manage.
+<img src="images/1.png"/>
