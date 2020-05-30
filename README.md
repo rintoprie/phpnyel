@@ -30,3 +30,4 @@ Contoh halaman login. Halaman ini memodifikasi template HTML Bootstrap hasil und
 
 <img src="images/screenshots/5.png"/>
 
+CATATAN PENTING: Aplikasi ini dibuat sederhana untuk memudahkan pengembangan aplikasi web bagi yang baru mengenal PHP atau ingin membuat prototipe sederhana dengan cepat. Agar mudah dimodifikasi, kode-kodenya diatur mirip pola MVC dengan memisahkan kode pengatur logika per halaman, kode tampilan yang menggunakan template HTML dan Bootstrap yang disimpan di folder 'pages', dan kode-kode yang berisi query di dalam file functions.php. Untuk penggunaan final di web server umum (public domain) sangat disarankan untuk lebih dulu meningkatkan faktor keamanan seperti risiko SQL injection, error handling, dan sebagainya.
